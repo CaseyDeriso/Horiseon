@@ -1,4 +1,8 @@
+# Ignore node_modules
 node_modules
+# Ignore package lock 
 package-lock.json
+# Ignore vscode system files
 .vscode
+# Ignore Mac system files
 .DS_Store
