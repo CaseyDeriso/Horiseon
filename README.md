@@ -8,4 +8,4 @@ It contains a header with navigations to important content in the main section a
 [View deployed project here!](https://caseyderiso.github.io/Horiseon/)
 
 ### Screen shot of webpage:
-![Horiseon main page screenshot](/assets/images/UOT_Mockup.png))
+![Horiseon main page screenshot](/assets/images/UOT_Mockup.png)
