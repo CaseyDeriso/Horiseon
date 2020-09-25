@@ -1,4 +1,4 @@
-# 💻🖱 Horiseon Online Reputation Mangagement 🖱💻
+# 💻🖱 Hori**seo**n Online Reputation Mangagement 🖱💻
 
 ## This is the home webpage for Horiseon.
 
